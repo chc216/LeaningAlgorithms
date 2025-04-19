@@ -40,9 +40,6 @@ int main() {
             }
         }
     }
-    // for(int i = 1; i <= f; i++){
-    //     cout << vis[i] << " ";
-    // }
 
     if(vis[g] == -1){
       cout << "use the stairs";

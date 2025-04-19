@@ -1,5 +1,5 @@
 //골드 3 텀프로젝트
-// ??? BFS문제로 나왔는데 어디에 적용되는지 아리송
+// ??? BFS문제로 나왔는데 어디에 적용되는지 아리송 -> vis배열에 기록하는 부분에서 bfs
 
 #include <iostream>
 #include <queue>
