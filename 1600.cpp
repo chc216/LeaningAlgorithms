@@ -1,3 +1,5 @@
+//골드 3, 말이 되고픈 원숭이
+//bfs + 상태트래킹 유형 문제
 #include <iostream>
 #include <queue>
 #include <algorithm>
